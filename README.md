@@ -6,7 +6,7 @@ To clone this repository, run:
 
 cd into the repository:
 
-`$ cd github_trending`
+`$ cd mock-coding-challenge`
 
 ### Part I: Command Line Script
 To get trending repositories data from the command line, run:
