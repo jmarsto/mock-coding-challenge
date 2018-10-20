@@ -16,8 +16,10 @@ To get trending repositories data from the command line, run:
 ### Part II: JSON API for trending repositories on GitHub
 Run the following to install dependences:
 
-```$ bundle
-$ yarn```
+```no-highlight
+$ bundle
+$ yarn
+```
 
 Set up and seed the database:
 
