@@ -30,3 +30,5 @@ Start the development server:
 `$ rails s`
 
 Finally, navigate to [the API endpoint](http://localhost:3000/api/v1/repositories)!
+
+Written in accord with [RuboCop's Ruby Style Guide](https://github.com/rubocop-hq/ruby-style-guide)
