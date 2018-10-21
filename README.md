@@ -31,4 +31,8 @@ Start the development server:
 
 Finally, navigate to [the API endpoint](http://localhost:3000/api/v1/repositories)!
 
+To run the model tests for Repository, run
+
+`$ rspec`
+
 Written in accord with [RuboCop's Ruby Style Guide](https://github.com/rubocop-hq/ruby-style-guide)
