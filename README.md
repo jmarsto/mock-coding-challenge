@@ -25,9 +25,13 @@ Set up and seed the database:
 
 `$ rake db:setup`
 
+`$ rake db:seed`
+
 Start the development server:
 
 `$ rails s`
+
+`$ yarn run start`
 
 Finally, navigate to [the API endpoint](http://localhost:3000/api/v1/repositories)!
 
